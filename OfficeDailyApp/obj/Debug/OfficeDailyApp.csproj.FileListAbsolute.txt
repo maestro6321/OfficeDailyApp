@@ -1,0 +1,9 @@
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\bin\Debug\OfficeDailyApp.exe.config
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\bin\Debug\OfficeDailyApp.exe
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\bin\Debug\OfficeDailyApp.pdb
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\obj\Debug\OfficeDailyApp.csprojResolveAssemblyReference.cache
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\obj\Debug\OfficeDailyApp.Properties.Resources.resources
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\obj\Debug\OfficeDailyApp.csproj.GenerateResource.Cache
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\obj\Debug\OfficeDailyApp.exe
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\obj\Debug\OfficeDailyApp.pdb
+D:\dev\W\OfficeDailyApp\OfficeDailyApp\obj\Debug\OfficeDailyApp.Form1.resources
